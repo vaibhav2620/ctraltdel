@@ -1,7 +1,6 @@
-# Team - ctraltdel 
+# Project Title - Pehnava and Co.
 
-
-Project Title - Pehnava and Co.
+Team - ctraltdel 
 
 Configurations Required 
  
